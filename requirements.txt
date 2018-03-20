@@ -1,0 +1,4 @@
+# assumes datetime is already installed (included in Python 2.3+)
+requests==2.18.4
+beautifulsoup4==4.6.0
+pandas==0.21.1
